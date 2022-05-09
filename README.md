@@ -12,9 +12,7 @@ This application uses the following libraries and dependencies: <br/>
 streamlit, dataclasses, typing, web3, os, mnemonic, requests, dotenv, bip44
 
 # Data
-The data relating to the fintech professionals is hard coded. 
-
-The rest of the data is generated through functions defined in the 'crypto_wallet.py' file. 
+The hourly wage, name, and crypto address relating to each fintech professional is hard coded. The rest of the data is generated through functions defined in the 'crypto_wallet.py' file. 
 
 # Screenshots
 ![Screenshot 2022-05-08 195807](https://user-images.githubusercontent.com/63683699/167321155-bb0f03bd-01c4-47af-8b2e-4cb3c65cb0ca.png)
