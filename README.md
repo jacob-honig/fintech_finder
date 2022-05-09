@@ -5,6 +5,15 @@ This is an application that allows customers to find fintech professionals from 
 
 This application is an assignment for the nineteenth week of the FinTech bootcamp curriculum by Trilogy Education Services.
 
+# Technologies
+This model was made using Python (v3.7.0), WindowsOS (v20H2), VSCode(v1.67.0), and Ganache (v2.5.4). <br/>
+
+This model uses the following libraries and dependencies: <br/>
+streamlit, dataclasses, typing, web3, os, mnemonic, requests, dotenv, bip44
+
+# Data
+
+
 
 # Screenshots
 ![Screenshot 2022-05-08 195807](https://user-images.githubusercontent.com/63683699/167321155-bb0f03bd-01c4-47af-8b2e-4cb3c65cb0ca.png)
